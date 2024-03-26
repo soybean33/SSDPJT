@@ -1,0 +1,6 @@
+﻿  fileIO.cpp
+  test.cpp
+  코드를 생성하고 있습니다...
+test.obj : error LNK2005: "public: static class FileManager * __cdecl FileManager::getInstance(void)" (?getInstance@FileManager@@SAPEAV1@XZ)이(가) fileIO.obj에 이미 정의되어 있습니다.
+test.obj : error LNK2005: "private: static class FileManager * FileManager::instance" (?instance@FileManager@@0PEAV1@EA)이(가) fileIO.obj에 이미 정의되어 있습니다.
+C:\Users\711-08\source\repos\SSD\x64\Debug\SSD.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
